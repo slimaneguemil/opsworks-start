@@ -48,3 +48,15 @@ run the recipe it should display :
 [2015-11-14T14:39:06+00:00] INFO: ********** This stack gets its cookbooks from
 'https://s3.amazonaws.com/opsworks-demo-bucket/opsworks_cookbook_demo.tar.gz'
 **********
+
+******* test iteration_demo.rb 
+it should disply :
+
+[2015-11-16T19:56:56+00:00] INFO: ********** '["url", "https://s3.amazonaws.com/
+opsworks-demo-bucket/opsworks_cookbook_demo.tar.gz"]' **********
+[2015-11-16T19:56:56+00:00] INFO: ********** '["username", "secret-key-value"]'
+**********
+[2015-11-16T19:56:56+00:00] INFO: ********** '["password", "secret-access-key-value"]'
+**********
+[2015-11-16T19:56:56+00:00] INFO: ********** '["ssh_key", nil]' **********
+[2015-11-16T19:56:56+00:00] INFO: ********** '["revision", nil]' **********
