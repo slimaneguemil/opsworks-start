@@ -32,3 +32,19 @@ the logs should display :
 [2015-11-14T14:18:30+00:00] INFO: ********** Invoice line number 2 is a 'passenger car'
 **********
 [2015-11-14T14:
+
+
+************* test data_bags ******************
+run the recipe it should display :
+
+[2015-11-14T14:39:06+00:00] INFO: ********** This instance's instance ID is
+'f80fa119-81ab-4c3c-883d-6028e52c89EX' **********
+[2015-11-14T14:39:06+00:00] INFO: ********** This instance's public IP address is
+'192.0.2.0' **********
+[2015-11-14T14:39:06+00:00] INFO: ********** This instance belongs to the layer
+'MyCookbooksDemoLayer' **********
+[2015-11-14T14:39:06+00:00] INFO: ********** This instance belongs to the stack
+'MyCookbooksDemoStack' **********
+[2015-11-14T14:39:06+00:00] INFO: ********** This stack gets its cookbooks from
+'https://s3.amazonaws.com/opsworks-demo-bucket/opsworks_cookbook_demo.tar.gz'
+**********
