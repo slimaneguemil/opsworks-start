@@ -1,2 +1,2 @@
 name "opsworks_cookbook_demo"
-depends "application_javascript", "~> 1.0.0"
+depends "application", "5.0.0"
